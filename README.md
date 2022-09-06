@@ -4,7 +4,7 @@
 
 **Адрес страницы:** https://va-mesto.ru
 
-[mesto](https://user-images.githubusercontent.com/86553552/188730612-dac20888-22a0-4391-9075-6f857b115521.png)
+![mesto](https://user-images.githubusercontent.com/86553552/188730612-dac20888-22a0-4391-9075-6f857b115521.png)
 
 ## Описание
 
