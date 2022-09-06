@@ -1,0 +1,10 @@
+.header__container {
+  display: flex;
+  justify-content: space-between;
+}
+
+@media all and (max-width: 500px) {
+  .header__container {
+    margin-top: 27px;
+  }
+}

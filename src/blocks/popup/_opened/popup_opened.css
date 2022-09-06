@@ -1,0 +1,5 @@
+.popup_opened {
+  /* Модификатор */
+  opacity: 1;
+  visibility:visible;
+}
