@@ -29,8 +29,8 @@
 ### Зависимости
 
 1. @testing-library/jest-dom: ^5.15.0
-2. @testing-library/react": "^11.2.7"
-3. @testing-library/user-event": "^12.8.3"
+2. @testing-library/react: ^11.2.7
+3. @testing-library/user-event: ^12.8.3
 4. ansi-html: 0.0.7
 5. immer: ^9.0.6
 6. nth-check: ^2.0.1
